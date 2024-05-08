@@ -1,0 +1,8 @@
+¿En qué casos utilizar redux?
+¿En qué casos utilizar context?
+¿En qué casos utilizar lazy loading?
+¿En qué casos utilizar suspense?
+¿Qué son los slices en redux?
+
+
+- Aprender sobre pruebas unitarias
